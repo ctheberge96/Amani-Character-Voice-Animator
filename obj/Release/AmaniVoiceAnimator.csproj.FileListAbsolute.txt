@@ -1,0 +1,14 @@
+C:\Users\beach\source\repos\AmaniVoiceAnimator\bin\Release\AmaniVoiceAnimator.exe.config
+C:\Users\beach\source\repos\AmaniVoiceAnimator\bin\Release\AmaniVoiceAnimator.exe
+C:\Users\beach\source\repos\AmaniVoiceAnimator\bin\Release\AmaniVoiceAnimator.pdb
+C:\Users\beach\source\repos\AmaniVoiceAnimator\bin\Release\NAudio.dll
+C:\Users\beach\source\repos\AmaniVoiceAnimator\bin\Release\NAudio.xml
+C:\Users\beach\source\repos\AmaniVoiceAnimator\obj\Release\AmaniVoiceAnimator.Form1.resources
+C:\Users\beach\source\repos\AmaniVoiceAnimator\obj\Release\AmaniVoiceAnimator.Properties.Resources.resources
+C:\Users\beach\source\repos\AmaniVoiceAnimator\obj\Release\AmaniVoiceAnimator.csproj.GenerateResource.cache
+C:\Users\beach\source\repos\AmaniVoiceAnimator\obj\Release\AmaniVoiceAnimator.csproj.CoreCompileInputs.cache
+C:\Users\beach\source\repos\AmaniVoiceAnimator\obj\Release\AmaniVoiceAnimator.csproj.CopyComplete
+C:\Users\beach\source\repos\AmaniVoiceAnimator\obj\Release\AmaniVoiceAnimator.exe
+C:\Users\beach\source\repos\AmaniVoiceAnimator\obj\Release\AmaniVoiceAnimator.pdb
+C:\Users\beach\source\repos\AmaniVoiceAnimator\obj\Release\AmaniVoiceAnimator.Form2.resources
+C:\Users\beach\source\repos\AmaniVoiceAnimator\obj\Release\AmaniVoiceAnimator.csprojAssemblyReference.cache
